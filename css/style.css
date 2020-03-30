@@ -191,15 +191,13 @@ table {
     height: auto;
 }
 .contacts-btn {
-    background-color:  #FFB03B !important;
-    color: #ffffff !important;
-    width: 170px;
+    margin-left: 55px;
+    color: #ffffff ;
+    width: 50px;
     height: 54px;
-    border-radius: 3px;
-    font-size: 16px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: normal;
-    text-transform: capitalize;
+    font-size: 25px;
+    font-weight: 100%;
+
     border: 0px;
     color: #000 !important;
 }
